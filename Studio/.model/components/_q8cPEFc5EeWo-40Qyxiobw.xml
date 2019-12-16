@@ -19,13 +19,6 @@
       <typeSet uuid="_GC-J0qTqEea8d6P1JTl01w" bitSet="10"/>
     </domain>
   </variables>
-  <variables xsi:type="comp:DeclaredVariable" uuid="_9aKdMBhAEeq1EMlOjCJpdw"
-      name="Variable" visibility="800">
-    <domain uuid="_9aKdMRhAEeq1EMlOjCJpdw" name="local"
-        visibility="300">
-      <typeSet uuid="_9aKdMhhAEeq1EMlOjCJpdw" bitSet="393231"/>
-    </domain>
-  </variables>
   <variables xsi:type="comp:DeclaredVariable" uuid="_9vplABhAEeq1EMlOjCJpdw"
       name="Variable1" visibility="800">
     <domain uuid="_9vplARhAEeq1EMlOjCJpdw" name="local"
